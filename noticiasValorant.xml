@@ -1,53 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
+  <channel>
+
 <title>Noticias Valorant</title>
 <link>https://valorantnews.com</link>
-<description>Canal RSS con las últimas noticias del juego Valorant y su escena competitiva.</description>
+<description>Canal RSS con las últimas noticias del juego Valorant, multimedia y su escena competitiva.</description>
 <copyright>By Juan Jesús Rey Miranda - 2026</copyright>
+
 <item>
 <title>Nuevo agente anunciado en Valorant</title>
 <link>https://valorantnews.com/nuevo-agente</link>
 <description>Riot Games ha presentado un nuevo agente con habilidades centradas en el control del mapa y el apoyo al equipo.</description>
 <author>Redacción Valorant News</author>
 <category>Actualización</category>
-<pubDate>Sun, 16 Mar 2026</pubDate>
-<enclosure url="https://valorantnewscom/media/agente.mp3" type="audio/mpeg" length="300"/>
+<pubDate>Sun, 16 Mar 2026 19:00:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/nuevo-agente-artwork.jpg" type="image/jpeg" length="102400" />
 </item>
+
 <item>
 <title>Actualización 9.02 mejora el equilibrio de armas</title>
 <link>https://valorantnews.com/patch902</link>
 <description>El nuevo parche ajusta varias armas populares y corrige errores detectados por la comunidad.</description>
 <author>Redacción Valorant News</author>
 <category>Parche</category>
-<pubDate>Sat, 15 Mar 2026</pubDate>
-<enclosure url="https://valorantnews.com/media/patch.mp3" type="audio/mpeg" length="300"/>
+<pubDate>Sat, 15 Mar 2026 15:30:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/patch902-notas.jpg" type="image/jpeg" length="85000" />
 </item>
+
 <item>
 <title>Equipo europeo gana el torneo internacional</title>
 <link>https://valorantnews.com/torneo-internacional</link>
 <description>El equipo europeo sorprende al mundo ganando la final del torneo internacional tras un intenso enfrentamiento.</description>
 <author>Redacción Valorant News</author>
 <category>Esports</category>
-<pubDate>Fri, 14 Mar 2026</pubDate>
-<enclosure url="https://valorantnews.com/media/torneo.mp3" type="audio/mpeg" length="300"/>
+<pubDate>Fri, 14 Mar 2026 22:00:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/champions-vct-trophy.jpg" type="image/jpeg" length="150000" />
 </item>
+
 <item>
 <title>Nuevo mapa competitivo llega a Valorant</title>
 <link>https://valorantnews.com/nuevo-mapa</link>
 <description>Riot Games introduce un mapa completamente nuevo con rutas estratégicas y zonas abiertas para combates intensos.</description>
 <author>Redacción Valorant News</author>
 <category>Mapas</category>
-<pubDate>Thu, 13 Mar 2026</pubDate>
-<enclosure url="https://valorantnews.com/media/mapa.mp3" type="audio/mpeg" length="300"/>
+<pubDate>Thu, 13 Mar 2026 11:15:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/nuevo-mapa-vista-aerea.jpg" type="image/jpeg" length="115000" />
 </item>
+
 <item>
 <title>Evento especial con recompensas exclusivas</title>
 <link>https://valorantnews.com/evento</link>
 <description>Los jugadores podrán participar en un evento limitado para desbloquear skins y recompensas únicas.</description>
 <author>Redacción Valorant News</author>
 <category>Evento</category>
-<pubDate>Wed, 12 Mar 2026</pubDate>
-<enclosure url="https://valorantnews.com/media/evento.mp3" type="audio/mpeg" length="300"/>
+<pubDate>Wed, 12 Mar 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/evento-recompensas-skins.jpg" type="image/jpeg" length="95000" />
 </item>
+
+</channel>
+</rss><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+
+<title>Noticias Valorant</title>
+<link>https://valorantnews.com</link>
+<description>Canal RSS con las últimas noticias del juego Valorant, multimedia y su escena competitiva.</description>
+<copyright>By Juan Jesús Rey Miranda - 2026</copyright>
+
+<item>
+<title>Nuevo agente anunciado en Valorant</title>
+<link>https://valorantnews.com/nuevo-agente</link>
+<description>Riot Games ha presentado un nuevo agente con habilidades centradas en el control del mapa y el apoyo al equipo.</description>
+<author>Redacción Valorant News</author>
+<category>Actualización</category>
+<pubDate>Sun, 16 Mar 2026 19:00:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/nuevo-agente-artwork.jpg" type="image/jpeg" length="102400" />
+</item>
+
+<item>
+<title>Actualización 9.02 mejora el equilibrio de armas</title>
+<link>https://valorantnews.com/patch902</link>
+<description>El nuevo parche ajusta varias armas populares y corrige errores detectados por la comunidad.</description>
+<author>Redacción Valorant News</author>
+<category>Parche</category>
+<pubDate>Sat, 15 Mar 2026 15:30:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/patch902-notas.jpg" type="image/jpeg" length="85000" />
+</item>
+
+<item>
+<title>Equipo europeo gana el torneo internacional</title>
+<link>https://valorantnews.com/torneo-internacional</link>
+<description>El equipo europeo sorprende al mundo ganando la final del torneo internacional tras un intenso enfrentamiento.</description>
+<author>Redacción Valorant News</author>
+<category>Esports</category>
+<pubDate>Fri, 14 Mar 2026 22:00:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/champions-vct-trophy.jpg" type="image/jpeg" length="150000" />
+</item>
+
+<item>
+<title>Nuevo mapa competitivo llega a Valorant</title>
+<link>https://valorantnews.com/nuevo-mapa</link>
+<description>Riot Games introduce un mapa completamente nuevo con rutas estratégicas y zonas abiertas para combates intensos.</description>
+<author>Redacción Valorant News</author>
+<category>Mapas</category>
+<pubDate>Thu, 13 Mar 2026 11:15:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/nuevo-mapa-vista-aerea.jpg" type="image/jpeg" length="115000" />
+</item>
+
+<item>
+<title>Evento especial con recompensas exclusivas</title>
+<link>https://valorantnews.com/evento</link>
+<description>Los jugadores podrán participar en un evento limitado para desbloquear skins y recompensas únicas.</description>
+<author>Redacción Valorant News</author>
+<category>Evento</category>
+<pubDate>Wed, 12 Mar 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://valorantnews.com/media/evento-recompensas-skins.jpg" type="image/jpeg" length="95000" />
+</item>
+
 </channel>
 </rss>
